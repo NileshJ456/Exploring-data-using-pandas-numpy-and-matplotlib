@@ -9,7 +9,9 @@ Before you begin, ensure you have the following installed:
 - matplotlib
 - numPy
  
-[You can install the required Python packages using pip:]
-(pip install pandas matplotlib jupyter)
+### You can install the required Python packages using pip:
+
+pip install pandas matplotlib jupyter
+
 
 
